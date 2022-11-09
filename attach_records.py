@@ -1,16 +1,4 @@
-import pymongo
 from pymongo import MongoClient
-from pprint import pprint
-
-
-try:
-    cluster = MongoClient("mongodb+srv://mongo:mongo@csci112-cluster.zbudtoj.mongodb.net/HospitalAdministration?retryWrites=true&w=majority")
-    db = cluster["HospitalAdministration"]
-    print("Connected to MongoDB")
-    patients = db["patients"]
-    medical_records = db["medicalRecords"]
-except Exception as e:
-    print(e)
 
 
 def attach_medical_records():
@@ -23,4 +11,19 @@ def attach_medical_records():
         result = patients.replace_one({ "patient_id": i }, patientObj)
         print(result)
 
-attach_medical_records()
+
+if __name__ == "__main__":
+    try:
+        cluster = MongoClient("mongodb+srv://mongo:mongo@csci112-cluster.zbudtoj.mongodb.net/HospitalAdministration?retryWrites=true&w=majority")
+        db = cluster["HospitalAdministration"]
+        print("Connected to MongoDB")
+        patients = db["patients"]
+        medical_records = db["medicalRecords"]
+    except Exception as e:
+        print("An error occurred...")
+        print(e)
+
+    patients = db["patients"]
+    medical_records = db["medicalRecords"]
+
+    attach_medical_records()

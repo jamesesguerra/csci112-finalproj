@@ -1,6 +1,4 @@
-import pymongo
 from pymongo import MongoClient
-from pprint import pprint
 
 
 try:
@@ -8,6 +6,7 @@ try:
     db = cluster["HospitalAdministration"]
     print("Connected to MongoDB")
 except Exception as e:
+    print("An error occurred...")
     print(e)
 
 
