@@ -1,0 +1,1001 @@
+record_id,patient_id,doctor_id,room_id,bill_id,date,prescribed_drugs
+1,972,529,426,428,11/07/2022,sotalol hydrochloride
+2,878,784,997,132,06/11/2022,OXYBENZONE
+3,506,564,160,190,08/01/2022,DIGOXIN
+4,483,138,330,559,10/29/2022,"calendula officinalis, chamomilla"
+5,836,503,471,938,06/10/2022,Secale Betula
+6,30,259,175,443,10/28/2022,Zinc Oxide and Lanolin
+7,310,972,407,48,11/14/2021,Atropine Sulfate
+8,98,544,842,872,11/18/2021,Lisinopril
+9,627,629,853,722,04/27/2022,ONION
+10,624,878,372,185,03/02/2022,Octinoxate and Oxybenzone
+11,988,585,200,364,05/09/2022,Albumin (Human)
+12,930,958,910,312,11/16/2021,Sodium Polystyrene Sulfonate
+13,348,677,765,995,06/17/2022,"OCTINOXATE, TITANIUM DIOXIDE"
+14,306,701,377,7,10/30/2022,
+15,517,857,284,170,09/19/2022,"OCTINOXATE, Titanium Dioxide, Octocrylene, AVOBENZONE"
+16,569,177,805,557,06/03/2022,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+17,284,219,331,962,08/03/2022,Cough Syrup
+18,728,743,2,729,10/18/2022,
+19,684,937,196,881,11/18/2021,Pentazocine HCl and Acetaminophen
+20,443,351,701,117,06/23/2022,Tramadol Hydrochloride
+21,273,559,540,385,09/09/2022,
+22,740,317,934,448,03/10/2022,DIMETHICONE
+23,434,951,80,267,01/11/2022,Olanzapine
+24,69,663,174,560,02/20/2022,"Magnesium Chloride, Dextrose monohydrate, Lactic Acid, Sodium Chloride, Sodium Bicarbonate, and Potassium Chloride"
+25,923,579,788,549,01/18/2022,REPAGLINIDE
+26,956,262,358,174,09/02/2022,Tobacco Leaf
+27,394,12,829,792,02/22/2022,Hydrochlorothiazide
+28,288,421,498,826,11/07/2022,iopromide
+29,748,551,423,851,12/24/2021,OXYGEN
+30,695,409,687,77,03/25/2022,
+31,508,539,846,911,08/18/2022,Verapamil Hydrochloride
+32,953,655,682,712,09/27/2022,Atenolol
+33,219,331,844,722,08/25/2022,Midazolam HCl
+34,162,811,395,679,12/19/2021,"Aconitum napellus, Belladonna, Chininum sulphuricum, Ferrum phosphoricum, Hepar sulphuris calcareum, Mercurius corrosivus, Natrum muriaticum, Nux vomica, Phosphorus, Pulsatilla, Sarcolacticum acidum, Sulphur"
+35,149,383,997,748,09/04/2022,RISPERIDONE
+36,142,349,436,310,02/22/2022,Promethazine Hydrochloride
+37,286,30,638,9,10/03/2022,DOCUSATE SODIUM -SENNOSIDES
+38,549,624,549,637,12/30/2021,OXYGEN
+39,521,13,839,794,11/19/2021,
+40,194,683,998,201,02/23/2022,Hydrocodone Bitartrate and Acetaminophen
+41,675,682,214,681,01/15/2022,"Lycopodium, Bryonia alba"
+42,573,915,993,911,05/13/2022,Amoxicillin
+43,536,125,278,133,02/03/2022,Phenytoin Sodium
+44,299,146,668,761,01/21/2022,Aluminum Chlorohydrate
+45,169,187,187,538,12/05/2021,
+46,619,976,900,493,10/01/2022,paroxetine hydrochloride
+47,7,941,314,898,04/27/2022,Mycophenolic Acid
+48,962,23,519,89,02/03/2022,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
+49,961,405,587,52,11/18/2021,ANIDULAFUNGIN
+50,834,666,540,577,01/29/2022,omeprazole
+51,357,67,111,289,11/25/2021,Promethazine Hydrochloride
+52,861,948,52,831,11/05/2022,"Adrenalinum, Adrenocorticotrophin, Agrimonia eupatoria, flos, Anacardium orientale, Antimonium crudum, Calcarea carbonica, Castanea sativa, flos, Cortisone aceticum, Fucus vesiculosus, Hypothalamus, Kali bichromicum, Oleander, Pituitarum posterium, Sabadilla, Staphysagria, Thyroidinum"
+53,85,431,451,463,04/05/2022,ROPIVACAINE HYDROCHLORIDE
+54,818,739,630,294,09/24/2022,Oxygen
+55,196,60,702,334,04/04/2022,SODIUM FLUORIDE
+56,387,486,270,899,10/03/2022,Verapamil Hydrochloride
+57,121,666,449,939,08/07/2022,Metoprolol tartrate
+58,185,474,260,21,10/30/2022,Atomoxetine hydrochloride
+59,661,719,266,91,05/12/2022,Carbidopa and Levodopa
+60,427,954,591,451,02/04/2022,"Dextromethorphan HBr, Guaifenesin"
+61,338,427,420,722,01/05/2022,"Berberis Vulgaris, Boldo, Chelidonium Majus, Hydrastis Canadensis, Lappa Major, Taraxacum Officinale, Trifolium Pratense"
+62,584,169,875,177,04/18/2022,Urea
+63,740,6,478,572,05/04/2022,"acetaminophen, dextromethorphan hydrobromide, doxylamine succinate"
+64,636,559,239,168,05/05/2022,Salicylic Acid
+65,392,656,642,344,08/21/2022,Levothyroxine Sodium
+66,554,861,51,29,03/22/2022,"Octinoxate, Octisalate, and Titanium Dioxide"
+67,748,383,504,346,12/28/2021,losartan potassium
+68,923,683,200,689,08/26/2022,Ibuprofen
+69,751,161,875,721,03/20/2022,BIOTIN
+70,182,594,185,295,03/26/2022,"Insects (whole body) cockroach, American Periplaneta americana"
+71,98,259,105,858,11/09/2021,levothyroxine sodium
+72,165,843,727,629,12/17/2021,OCTINOXATE
+73,156,472,661,724,09/05/2022,Menthol
+74,741,788,207,587,01/06/2022,Triclosan
+75,239,286,719,66,08/10/2022,Diphenhydramine HCl
+76,269,361,212,211,02/25/2022,ALCOHOL
+77,176,556,121,905,08/03/2022,citalopram hydrobromide
+78,973,501,973,217,11/16/2021,Antihemophilic Factor (Recombinant)
+79,566,863,563,488,04/25/2022,WITCH HAZEL
+80,209,293,524,395,08/28/2022,"Mineral Oil, Pramoxine Hydrochloride, and Zinc Oxide"
+81,856,938,485,989,08/01/2022,METHOTREXATE SODIUM
+82,138,60,441,781,05/14/2022,Fluvoxamine Maleate
+83,531,425,574,887,05/01/2022,Acyclovir
+84,723,18,265,40,08/16/2022,Acetaminophen
+85,981,243,174,89,11/07/2022,olmesartan medoxomil and hydrochlorothiazide
+86,500,107,811,66,07/04/2022,Alprazolam
+87,874,977,839,254,06/24/2022,Terazosin Hydrochloride
+88,538,257,565,941,08/16/2022,Ranitidine
+89,626,298,22,166,10/06/2022,Salicylic Acid
+90,898,20,504,306,10/09/2022,Aspergillus flavus
+91,948,677,121,661,10/20/2022,Acetaminophen
+92,328,224,871,267,10/06/2022,Diphenhydramine Hydrochloride
+93,639,527,791,876,11/24/2021,Aspirin
+94,995,587,992,326,10/28/2022,"Avobenzone, Octinoxate, Octisalate"
+95,182,283,34,651,05/28/2022,Titanium Dioxide and Zinc Oxide
+96,534,591,540,739,03/30/2022,Nortriptyline Hydrochloride
+97,321,848,478,463,04/27/2022,ISOSORBIDE DINITRATE
+98,801,418,388,159,07/07/2022,Carvedilol
+99,519,115,432,921,11/08/2022,Irbesartan
+100,345,808,9,28,06/19/2022,"Octinoxate, Oxybenzone, and Titanium Dioxide"
+101,268,781,587,685,02/17/2022,fentanyl
+102,706,335,108,388,07/08/2022,Phentolamine Mesylate
+103,239,142,920,856,08/08/2022,ATORVASTATIN CALCIUM
+104,804,406,275,954,01/09/2022,epinephrine
+105,711,413,694,169,08/09/2022,Interleukin-10
+106,549,19,150,542,01/31/2022,sodium fluoride
+107,303,179,82,7,08/12/2022,Minoxidil
+108,977,8,617,335,01/31/2022,telavancin hydrochloride
+109,196,815,451,416,05/19/2022,Amoxicillin/Clavulanate Potassium
+110,216,291,436,519,12/21/2021,Apis Gelsemium
+111,374,269,918,205,08/08/2022,ziprasidone hydrochloride
+112,32,391,278,783,04/15/2022,Moexipril hydrochloride and hydrochlorothiazide
+113,361,927,983,618,01/14/2022,SALICYLIC ACID
+114,670,988,62,478,08/11/2022,"Brompheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl"
+115,314,961,868,804,02/05/2022,DIMETHICONE
+116,198,728,897,653,02/22/2022,Pussy Willow
+117,179,20,312,732,05/12/2022,Butorphanol Tartrate
+118,477,759,68,686,08/30/2022,CARBAMIDE PEROXIDE
+119,790,63,264,732,08/07/2022,Aspirin
+120,957,826,250,351,03/29/2022,"Avobenzone, Octisalate, Octocrylene and Oxybenzone"
+121,811,324,172,175,01/08/2022,Pramipexole
+122,422,869,236,800,11/15/2021,Sennosides
+123,318,292,469,174,05/22/2022,Aspirin
+124,228,323,225,886,07/14/2022,Medroxyprogesterone Acetate
+125,670,350,733,903,12/22/2021,"Avobenzone, Octisalate, Octocrylene"
+126,601,463,991,837,01/24/2022,Acetaminophen
+127,915,646,726,168,08/26/2022,Titanium Dioxide and Zinc Oxide
+128,652,807,886,193,08/07/2022,Amantadine Hydrochloride
+129,622,749,356,154,01/17/2022,
+130,951,198,963,696,03/31/2022,Lanolin
+131,242,434,64,942,02/03/2022,Acetaminophen
+132,841,454,342,935,02/20/2022,tuna
+133,278,277,322,508,08/13/2022,Isosorbide Mononitrate
+134,595,505,721,43,03/24/2022,
+135,683,408,395,278,06/01/2022,Clonidine Hydrochloride
+136,801,266,915,277,12/23/2021,ZALEPLON
+137,827,639,720,938,10/03/2022,ANAMIRTA COCCULUS SEED
+138,90,890,158,739,04/01/2022,tretinoin
+139,215,320,992,813,12/17/2021,Paroxetine hydrochloride
+140,344,548,362,117,10/13/2022,Carisoprodol
+141,552,337,706,355,04/23/2022,Myristica Argentum
+142,457,277,147,334,11/28/2021,ENALAPRIL MALEATE
+143,709,852,971,170,11/06/2022,Lorazepam
+144,868,219,564,234,11/09/2021,Ibuprofen
+145,216,687,569,534,02/03/2022,"Dextromethorphan, Guaifenesin, Phenylephrine"
+146,320,112,935,938,05/20/2022,dalteparin sodium
+147,556,412,330,256,12/10/2021,Panthenol
+148,982,243,928,978,06/24/2022,ESCITALOPRAM OXALATE
+149,798,95,744,365,12/24/2021,Ketotifen Fumarate
+150,638,937,774,688,01/09/2022,Dimethicone
+151,79,490,689,260,09/21/2022,benzalkonium chloride
+152,558,251,794,727,03/02/2022,clonidine hydrochloride
+153,950,447,432,577,06/19/2022,fluticasone propionate and salmeterol
+154,904,335,861,377,08/11/2022,Athlete s Foot Spray
+155,966,53,922,125,06/11/2022,WHITE PETROLEUM
+156,858,732,583,799,12/24/2021,Morphine Sulfate
+157,953,772,216,561,06/18/2022,"Apis mellifica, Arsenicum album, Belladonna, Chamomilla, Echinacea, Lachesis mutus, Mercurius Solubilis,"
+158,434,507,695,777,01/14/2022,"Mineral oil, Petrolatum, Phenylephrine HCl, Shark liver oil"
+159,39,693,15,518,04/05/2022,Chicory
+160,670,549,575,464,01/01/2022,"acetaminophen,pheniramine maleate, phenylephrine hydrochloride"
+161,60,535,765,649,09/08/2022,OCTINOXATE
+162,110,292,522,538,09/07/2022,NOT APPLICABLE
+163,751,858,865,602,09/24/2022,Enoxaparin Sodium
+164,94,391,440,952,10/07/2022,BENZETHONIUM CHLORIDE
+165,935,981,467,852,12/19/2021,Pioglitazone
+166,781,133,291,120,03/07/2022,Quinapril Hydrochloride
+167,404,679,227,496,03/09/2022,"Coumarinum, Quercetin, Rutin, Bamboo, Barley, Corn, Cotton seed, Flax seed, Millet, Milo, Oat, Poppy seed, Rice, Rye, Safflower, Sesame, Sorghum, Sugar cane,"
+168,390,274,214,362,05/05/2022,clindamycin hydrochloride
+169,484,206,236,203,01/11/2022,dl-alpha-tocoheryl acetate and ascorbic acid and cholecalciferol and cyanocobalamin and niacinamide and pyridoxine hydrochloride and riboflavin and fluoride and thiamin hydrochloride and vitamin A palmitate
+170,767,185,49,639,02/24/2022,HYOSCYAMINE SULFATE
+171,105,699,116,320,06/01/2022,"Calcarea fluorica, Collinsonia canadensis, Hamamelis virginiana"
+172,745,997,233,736,05/24/2022,"Acetaminophen, Caffeine and Pyrilamine maleate"
+173,755,72,542,651,07/23/2022,
+174,45,151,528,785,12/29/2021,Warfarin Sodium
+175,864,917,838,767,12/28/2021,
+176,64,908,264,779,10/17/2022,Clarithromycin
+177,375,412,310,71,09/07/2022,Yellow Dock
+178,756,939,857,668,12/06/2021,"Acetaminophen, Diphenhydramine HCl"
+179,879,812,50,956,05/21/2022,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+180,318,64,406,979,04/18/2022,Nicotine Polacrilex
+181,35,468,364,21,01/13/2022,sodium chloride
+182,744,416,166,533,03/18/2022,Maximum Strength Medicated Foot Powder
+183,978,531,591,54,03/27/2022,
+184,119,579,926,439,12/26/2021,naftifine hydrochloride
+185,331,29,762,481,02/17/2022,"Octinoxate, Titanium Dioxide, and Zinc Oxide"
+186,944,554,258,501,03/26/2022,Acetaminophen
+187,537,655,159,172,02/01/2022,Venlafaxine
+188,80,220,563,735,03/13/2022,Amiloride Hydrochloride
+189,403,702,877,852,05/08/2022,"Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride"
+190,953,627,301,355,04/29/2022,"Alcohol, Denatured"
+191,693,649,758,904,08/07/2022,Acetaminophen
+192,37,680,319,236,05/12/2022,NEOMYCIN
+193,593,840,741,168,12/05/2021,Miconazole Nitrate
+194,578,178,807,802,04/21/2022,"Acetaminophen, Dextromethorphan Hydrobromide, and Doxylamine Succinate"
+195,964,505,442,600,08/27/2022,"OCTINOXATE, OXYBENZONE, TITANIUM DIOXIDE, OCTOCRYLENE"
+196,671,210,163,598,11/03/2022,Ibuprofen
+197,786,840,142,655,04/06/2022,ISOPROPYL ALCOHOL
+198,391,107,208,606,09/11/2022,"OCTINOXATE, ZINC OXIDE"
+199,924,574,204,810,03/17/2022,Ethyl Alcohol
+200,558,444,820,945,03/26/2022,OCTINOXATE
+201,602,136,136,760,08/14/2022,Aluminum Zirconium Tetrachlorohydrex GLY
+202,174,64,318,350,11/13/2021,homatropine hydrobromide
+203,106,459,203,425,08/06/2022,Turkey
+204,335,384,976,734,07/27/2022,sildenafil citrate
+205,950,787,851,693,05/04/2022,Morus rubra
+206,297,289,569,861,09/07/2022,"Belladonna, Lachesis mutus, Nux vomica, Pulsatilla, Secale cornutum, Sepia, Ustilago maidis,"
+207,2,657,43,357,01/06/2022,
+208,130,461,943,862,07/11/2022,Octinoxate and Oxybenzone
+209,637,23,29,456,05/22/2022,Quinapril
+210,171,429,428,220,11/23/2021,BENZOYL PEROXIDE
+211,727,786,311,80,04/13/2022,"ACETAMINOPHEN, PHENYLEPHRINE HYDROCHLORIDE"
+212,337,40,316,326,06/16/2022,Lisinopril
+213,880,104,825,791,12/31/2021,Oxygen
+214,848,354,529,982,10/22/2022,Nateglinide
+215,155,61,105,934,02/11/2022,HYDROQUINONE
+216,940,751,694,35,09/21/2022,Magnesium Oxide
+217,290,547,942,21,04/10/2022,
+218,444,762,587,508,12/08/2021,Erythromycin
+219,658,365,714,444,08/21/2022,Venlafaxine
+220,9,764,949,193,05/24/2022,Prednisone
+221,40,435,827,255,09/27/2022,
+222,945,835,146,832,10/30/2022,Mirtazapine
+223,843,560,314,25,05/07/2022,Isopropyl Alcohol
+224,763,131,323,290,03/20/2022,Goserelin acetate
+225,144,663,783,314,02/15/2022,Temozolomide
+226,70,319,965,440,05/11/2022,citalopram
+227,823,638,556,158,03/13/2022,Nafcillin Sodium
+228,874,26,69,257,07/16/2022,Menthol
+229,595,414,46,199,11/23/2021,Acetaminophen
+230,641,582,725,265,11/13/2021,"avobenzone, homosalate,octisalate"
+231,888,79,380,958,06/18/2022,irbesartan
+232,553,214,308,267,07/21/2022,"avobenzone, octisalate, octocrylene, and oxybenzone"
+233,22,245,119,622,02/02/2022,Aluminum Zirconium Pentachlorohydrex Gly
+234,72,337,121,961,05/19/2022,Promethazine Hydrochloride
+235,744,168,465,453,02/10/2022,Acetaminophen
+236,407,521,571,185,03/19/2022,Aluminum Zirconium Tetrachlorohydrex GLY
+237,101,527,434,174,11/07/2022,Anti-Inhibitor Coagulant Complex
+238,770,501,157,249,07/09/2022,"Octinoxate, Oxybenzone, Titanium Dioxide"
+239,995,955,491,268,10/08/2022,HYDROXYZINE HYDROCHLORIDE
+240,705,808,616,223,11/06/2022,pioglitazone and metformin hydrochloride
+241,339,89,426,292,06/25/2022,
+242,708,125,406,548,04/20/2022,Ethambutol Hydrochloride
+243,827,913,978,579,04/18/2022,
+244,813,692,297,620,09/25/2022,OXCARBAZEPINE
+245,349,498,634,916,07/03/2022,DOCUSATE SODIUM
+246,676,893,802,360,01/03/2022,CAPTOPRIL
+247,580,391,128,752,08/05/2022,"Trifolium pratense, Lymph (suis), Spleen (suis), Conium maculatum, Echinacea, Lycopodium clavatum, Myrrha, Phytolacca decandra, Selenium metallicum, Silicea,"
+248,472,863,712,68,07/11/2022,Pantoprazole Sodium
+249,918,927,771,376,01/11/2022,TOPIRAMATE
+250,717,240,745,254,04/15/2022,Gabapentin
+251,796,620,495,24,07/27/2022,Naproxen
+252,557,792,879,453,11/04/2022,benzylpenicilloyl polylysine
+253,705,724,866,742,07/16/2022,Isopropyl Alcohol
+254,132,566,554,595,11/07/2022,Salicylic Acid
+255,131,388,888,530,09/19/2022,isosorbide mononitrate
+256,167,522,837,996,01/08/2022,Alcohol
+257,748,686,895,505,09/04/2022,LIDOCAINE AND PRILOCAINE
+258,165,544,944,523,12/18/2021,Ibuprofen
+259,288,69,776,931,11/23/2021,Levothyroxine sodium
+260,677,225,910,881,10/18/2022,acetaminophen and caffeine
+261,680,932,632,254,05/16/2022,Benzalkonium Chloride
+262,750,13,442,475,03/27/2022,Clonidine Hydrochloride
+263,2,227,765,505,10/28/2022,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+264,204,644,827,925,09/27/2022,
+265,952,966,89,86,06/21/2022,Diphenhydramine Hydrochloride
+266,344,954,466,329,09/08/2022,Benzoyl Peroxide
+267,345,711,38,559,03/03/2022,Octinoxate Titanium Dioxide
+268,277,530,58,913,02/22/2022,"Baptisia Tinctoria, Echinacea, Hydrastis Canadensis, Phytolacca Decandra, Myrrha, Nasturtium Aquaticum, Trigonella Foenum-graecum"
+269,275,616,168,156,07/21/2022,"Chamomilla, Echinacea (Angustifolia), Hamamelis virginiana, Hypericum perforatum, Millefolium, Bryonia (Alba), Calendula officinalis, Arnica Montana,"
+270,800,820,871,39,05/20/2022,"OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE"
+271,641,868,184,225,04/14/2022,glycopyrrolate
+272,633,918,121,724,11/28/2021,Clonidine Hydrochloride
+273,501,178,32,923,04/10/2022,"Octinoxate, Oxybenzone, and Dimethicone"
+274,984,269,988,627,04/16/2022,MIDODRINE HYDROCHLORIDE
+275,275,917,941,698,11/01/2022,pravastatin sodium
+276,788,305,112,351,04/02/2022,Cetirizine Hydrochloride
+277,873,814,725,280,10/30/2022,CELECOXIB
+278,255,626,91,717,10/21/2022,eplerenone
+279,114,985,957,847,06/19/2022,Carvedilol
+280,959,731,156,613,05/19/2022,Cyclopentolate Hydrochloride
+281,54,311,784,956,12/16/2021,ETHYL ALCOHOL
+282,353,916,620,421,02/14/2022,CETIRIZINE HYDROCHLORIDE
+283,902,961,779,760,07/18/2022,Cattle Epithelium
+284,989,149,202,794,08/24/2022,
+285,588,161,423,475,01/22/2022,Levonorgestrel
+286,92,121,454,908,10/01/2022,
+287,867,988,833,997,03/09/2022,PredniSONE
+288,525,387,824,934,06/16/2022,Divalproex Sodium
+289,592,535,496,890,06/08/2022,Ropinirole Hydrochloride
+290,342,146,156,357,10/24/2022,atenolol
+291,848,183,797,867,04/29/2022,Shagbark Hickory
+292,655,655,670,246,03/16/2022,Doxylamine succinate
+293,906,462,547,527,07/09/2022,
+294,142,842,281,328,06/24/2022,Prednisone
+295,38,889,940,406,11/04/2022,ALTHAEA OFFICINALIS LEAF - ANTIMONY POTASSIUM TARTRATE - BRYONIA ALBA ROOT - CETRARIA ISLANDICA SUBSP. ISLANDICA - COCHINEAL - COPPER - DROSERA ROTUNDIFOLIA - ECHINACEA ANGUSTIFOLIA - GARDEN THYME - L
+296,688,797,367,429,09/30/2022,Topical Analgesic
+297,213,314,284,666,03/26/2022,BENZALKONIUM CHLORIDE
+298,816,518,327,150,02/02/2022,ALCOHOL
+299,323,691,20,989,05/13/2022,Hydrocodone Bitartrate and Acetaminophen
+300,145,798,605,92,03/13/2022,Furosemide
+301,206,643,973,904,09/19/2022,Ibuprofen
+302,811,439,972,303,02/03/2022,Bacitracin Zinc and Polymyxin B Sulfate
+303,391,216,164,616,12/18/2021,Lovastatin
+304,74,279,546,764,12/14/2021,MECLIZINE HYDROCHLORIDE
+305,864,942,497,515,12/01/2021,Oxybutynin Chloride
+306,767,287,600,728,10/12/2022,Levetiracetam
+307,430,968,688,795,03/20/2022,Lidocaine Hydrochloride
+308,530,873,506,695,05/11/2022,PIPERACILLIN and TAZOBACTAM
+309,840,366,718,271,11/20/2021,"Folic Acid, Pyridoxine, Calcium Carbonate, Thiamine Mononitrate, Cholecalciferol, .Alpha.-Tocopherol, D-, Cyanocobalamin, Ferrous Fumarate, Magnesium Oxide, Riboflavin, Niacin, Ascorbic Acid, Cupric Sulfate, Vitamin A Palmitate, Zinc Oxide, Doconexent, and Ethyl Icosapentate"
+310,3,865,316,644,03/05/2022,"dextromethorphan HBr, guaifenesin, phenylephrine HCl"
+311,358,410,102,193,06/08/2022,Naproxen Sodium
+312,205,793,128,481,05/21/2022,"Fucus Vesiculosus, Spongia Tosta, Iodium, Liothronine Sodium, Pulsatilla, Glandula Suprarenalis Suis, Pituitary (suis), Thryodinum (suis)"
+313,864,642,424,794,06/07/2022,Nabumetone
+314,951,864,779,43,04/23/2022,Salicylic Acid
+315,87,827,130,449,06/29/2022,Loratadine
+316,307,940,863,745,07/24/2022,Aluminum Chlorohydrate
+317,845,235,421,808,07/07/2022,SILICEA
+318,377,258,711,771,09/11/2022,spironolactone
+319,953,688,152,388,08/09/2022,
+320,505,508,649,733,06/20/2022,"Salicylic Acid, Niacinamide, Menthol"
+321,94,532,334,544,06/10/2022,benztropine mesylate
+322,116,22,264,785,09/20/2022,Paricalcitol
+323,625,623,713,81,02/11/2022,Hydrogen Peroxide
+324,88,448,427,506,11/15/2021,Sodium Chloride
+325,365,598,186,225,06/18/2022,DEXTROSE MONOHYDRATE
+326,170,577,853,19,10/23/2022,nabumetone
+327,729,943,888,671,05/22/2022,Furosemide
+328,709,568,279,707,02/22/2022,"phenylephrine hcl, brompheniramine maleate"
+329,756,998,736,254,04/08/2022,Mirtazapine
+330,704,117,666,193,01/21/2022,Oxycodone and Acetaminophen
+331,882,653,13,314,06/17/2022,paroxetine hydrochloride
+332,922,844,319,494,01/02/2022,not applicable
+333,266,102,557,334,09/02/2022,morphine sulfate
+334,501,339,153,642,12/09/2021,OCTINOXATE and OXYBENZONE
+335,904,597,514,562,11/18/2021,Famotidine
+336,257,790,905,881,06/18/2022,Pyrithione Zinc
+337,165,327,425,273,06/21/2022,azithromycin
+338,188,636,78,639,10/28/2022,OCTINOXATE
+339,66,26,961,292,12/12/2021,Verapamil Hydrochloride
+340,680,553,49,538,02/09/2022,Cefdinir
+341,23,681,147,892,04/30/2022,metoprolol tartrate
+342,813,46,81,690,07/28/2022,Benzalkonium chloride
+343,824,594,774,473,05/03/2022,Estazolam
+344,780,497,701,472,01/12/2022,"Carbo veg, Calc phos , Kali brom, Calc sil Violo tric , Lactose ."
+345,904,874,414,191,09/23/2022,stavudine
+346,469,912,124,632,03/19/2022,Levobunolol Hydrochloride
+347,908,984,667,787,07/09/2022,Sulfasalazine
+348,608,851,418,873,08/29/2022,Minoxidil
+349,606,323,140,342,12/30/2021,"ZINC OXIDE, TITANIUM DIOXIDE"
+350,579,520,156,861,09/14/2022,CORN SMUT
+351,698,661,835,81,05/20/2022,"Zinc Oxide, Dimethicone"
+352,154,563,185,286,04/01/2022,Sesame Seed
+353,979,802,37,198,08/11/2022,chlorpropamide
+354,463,168,806,564,12/01/2021,Diphenhydramine Hydrochloride
+355,797,287,684,830,10/24/2022,Hydroxyzine Hydrochloride
+356,382,58,889,512,03/13/2022,Risperidone
+357,70,145,793,372,09/15/2022,amlodipine besylate and atorvastatin calcium
+358,505,690,543,129,02/08/2022,Benzoyl Peroxide
+359,438,46,586,157,05/05/2022,"bos taurus adrenal gland, sus scrofa adrenal gland, fucus vesiculosus, iodine, iridium, bos taurus parathyroid gland, sus scrofa parathyroid gland, bos taurus pituitary gland, sus scrofa pituitary gland, bos taurus spleen, sus scrofa spleen, spongia officinalis whole, bos taurus thymus, sus scrofa thymus, thyroid, bovine, thyroid, porcine, levothyroxine, liothyronine"
+360,518,658,879,740,08/07/2022,bepotastine besilate
+361,73,892,985,91,09/16/2022,risperidone
+362,81,618,379,876,06/05/2022,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate"
+363,370,108,804,513,08/18/2022,Levothyroxine Sodium
+364,113,904,606,121,03/07/2022,Titanium dioxide
+365,848,229,542,193,05/27/2022,Lisinopril
+366,844,572,1000,787,10/05/2022,PENTOSTATIN
+367,527,301,689,337,05/16/2022,
+368,250,40,816,257,04/06/2022,
+369,997,656,499,322,06/13/2022,
+370,299,465,670,105,10/22/2022,Norethindrone and ethinyl estradiol
+371,633,505,697,1,12/10/2021,Acetaminophen
+372,957,476,814,388,12/30/2021,
+373,712,313,254,275,11/27/2021,TRIFLUOPERAZINE
+374,588,515,261,708,10/18/2022,Titanium Dioxide and Zinc Oxide
+375,944,74,155,268,06/22/2022,Aspirin
+376,591,321,457,787,05/18/2022,"Octinoxate, Oxybenzone, and Titanium Dioxide"
+377,962,944,627,449,10/16/2022,Aluminum Sesquichlorohydrate
+378,954,395,509,251,09/30/2022,Sulfacetamide Sodium and Prednisolone Sodium Phosphate
+379,29,462,274,623,04/22/2022,
+380,353,184,947,238,07/28/2022,Codeine Sulfate
+381,458,621,903,574,07/19/2022,PHENYTOIN
+382,447,188,239,122,03/13/2022,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+383,273,17,477,458,02/23/2022,"Octinoxate, Titanium Dioxide, and Zinc Oxide"
+384,609,163,519,716,09/21/2022,NICOTINE
+385,604,771,615,823,02/16/2022,BISMUTH SUBSALICYLATE
+386,876,740,718,184,10/08/2022,Benazepril Hydrochloride
+387,559,824,413,647,12/29/2021,ESLICARBAZEPINE ACETATE
+388,755,447,354,616,08/12/2022,Quetiapine fumarate
+389,306,579,398,364,01/05/2022,Arnica Montana
+390,66,854,954,755,03/28/2022,Aluminum zirconium tetrachlorohydrex gly
+391,402,405,532,205,06/06/2022,Diphenhydramine HCl
+392,504,251,547,611,04/14/2022,"Chelidonium majus, Liver, Cholesterinum, Lycopodium clavatum, Tarentula hispana, Arsenicum album, Belladonna,"
+393,108,446,921,22,01/12/2022,"DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN"
+394,137,694,942,181,03/11/2022,ALCOHOL
+395,173,883,313,505,03/27/2022,Hydrocortisone
+396,456,722,263,416,05/09/2022,SODIUM MONOFLUOROPHOSPHATE
+397,764,345,337,404,11/23/2021,ACETIC ACID
+398,557,46,712,121,03/10/2022,Loratadine
+399,801,86,664,622,10/14/2022,".Alpha.-Tocopherol Acetate, DL-, Ascorbic Acid, Cholecalciferol, Cyanocobalamin, Folic Acid, Ferrous fumarate, Calcium Phosphate, Dibasic, Anhydrous, Niacinamide, Pyridoxine Hydrochloride, Riboflavin, Thiamine Mononitrate, and Vitamin A Acetate"
+400,687,568,603,407,11/18/2021,Dimethicone
+401,233,685,805,213,07/04/2022,tocilizumab
+402,487,993,205,324,09/24/2022,Diphenhydramine Hydrochloride
+403,71,149,867,452,01/23/2022,"Benzalkonium Chloride,Allantoin"
+404,939,820,426,80,06/14/2022,benzonatate
+405,505,113,263,192,10/21/2022,"Acteaminophen, Guaifenesin, Phenylephrine HCl"
+406,356,483,557,829,05/04/2022,nafcillin sodium
+407,245,248,930,748,03/17/2022,bacillus subtilis
+408,21,156,562,975,06/10/2022,
+409,606,891,495,599,01/06/2022,Fusarium compactum
+410,158,168,462,343,08/09/2022,Cyclophosphamide
+411,57,887,783,799,08/21/2022,cetirizine hydrochloride
+412,66,722,564,345,11/19/2021,Nystatin
+413,115,269,405,304,08/06/2022,"BAPTISIA TINCTORIA, BRYONIA, ECHINACEA ANGUSTIFOLIA, THUJA OCCIDENTALIS, VISCUM ALBUM"
+414,834,383,76,286,12/09/2021,Mexican Tea
+415,622,840,996,439,11/25/2021,
+416,460,277,805,349,02/20/2022,degarelix
+417,725,187,338,777,08/03/2022,Avobenzone Octinoxate
+418,497,113,422,943,06/05/2022,
+419,208,560,414,280,03/05/2022,"Redtop Grass, Standardized"
+420,696,781,697,396,01/18/2022,Anastrozole
+421,293,962,525,968,01/20/2022,PROPYLHEXEDRINE
+422,315,359,740,840,12/19/2021,fentanyl
+423,517,760,268,793,07/30/2022,ondansetron hydrochloride and dextrose
+424,686,559,2,146,01/20/2022,Aspirin
+425,133,361,900,739,03/27/2022,Zidovudine
+426,487,342,700,676,05/06/2022,Pulsatilla Tormentilla
+427,415,485,908,14,04/21/2022,sumatriptan succinate
+428,929,679,957,307,01/30/2022,Ipratropium Bromide and Albuterol Sulfate
+429,574,248,591,618,04/09/2022,NITROGEN
+430,815,957,657,991,01/26/2022,Alternaria alternata
+431,584,34,911,102,03/03/2022,Terazosin Hydrochloride
+432,819,473,428,217,04/02/2022,Phenazopyridine
+433,237,432,961,222,12/09/2021,"Actaea Spicata, Aesculus Hippocastanum, Arnica Montana, Bellis Perennis, Bryonia Alba, Calcarea Carbonica, Calcarea Fluorica, Causticum, Cimicifuga Racemosa, Formicum Acidum, Hypericum Perforatum, Ledum Paulstre, Lithium Carbonicum, Magnesia Phosphorica, Phosphorus, Phytolacca Decandra, Pulsatilla, Rhododendron Chrysanthum, Rhus Toxicodendron, Ruta Graveolens, Salicylicum Acidum, Sepia, Sulphur, Zincum Metallicum"
+434,382,299,302,305,04/28/2022,SODIUM MONOFLUOROPHOSPHATE
+435,223,686,567,645,09/06/2022,Standardized Kentucky (June) Bluegrass Pollen
+436,731,575,162,320,08/01/2022,Triamcinolone Acetonide
+437,232,967,984,674,04/27/2022,"Avobenzone, Homosalate, Octisalate and Octocrylene"
+438,511,675,999,49,09/16/2022,"aluminum hydroxide, magnesium hydroxide, dimethicone"
+439,14,535,259,121,06/26/2022,Broccoli
+440,632,643,488,622,05/18/2022,"MATRICARIA RECUTITA, RHUBARB, PHYTOLACCA AMERICANA ROOT"
+441,541,572,583,782,07/17/2022,nortriptyline hydrochloride
+442,543,448,49,850,08/11/2022,Oxymetazoline Hydrochloride
+443,623,523,911,12,02/26/2022,clofarabine
+444,895,204,368,360,08/31/2022,isosorbide mononitrate
+445,929,470,625,651,08/28/2022,morphine sulfate
+446,378,922,513,149,12/18/2021,Octinoxate and Oxybenzone
+447,514,918,700,257,03/08/2022,Losartan Potassium
+448,430,336,189,620,07/20/2022,BUPIVACAINE HYDROCHLORIDE
+449,309,233,277,198,03/16/2022,Guaifenesin and Dextromethorphan Hydrobromide
+450,451,499,998,586,06/01/2022,Red Maple
+451,89,706,68,63,03/21/2022,Naproxen Sodium
+452,37,173,329,295,10/21/2022,"Chamomilla, Clematis vitalba, flos, Croton tiglium, Curare, Dulcamara, Graphites, Ignatia amara, Iodium, Lathyrus sativus, Lonicera caprifolium, flos, Millefolium, Muriaticum acidum, Rosa damascena, Saccharum officinale, Silicea, Stigmata maidis"
+453,945,439,127,401,04/02/2022,Equisetum cum sulfure tosta 6
+454,222,782,853,537,08/03/2022,metronidazole
+455,71,171,224,88,08/01/2022,"Bufo rana, Apis mel., Asterias rubens, Belladonna, Bryonia, Calc. carb.,Chamomilla, Chimaphila umbellata, Cinchona, Conium, Croton, Echinacea, Graphites, Helonias dioica, Lachesis, Merc. viv., Phellandrium aquaticum, Phosphorus, Phytolacca, Pulsatilla, Sanguinaria, Silicea, Hamamelis, Ruta, Taraxacum"
+456,859,173,719,44,03/28/2022,pramipexole dihydrochloride
+457,528,796,220,137,02/27/2022,Miconazole Nitrate
+458,188,235,292,861,07/27/2022,Sodium fluoride
+459,33,874,11,401,12/17/2021,California Black Walnut
+460,624,82,585,656,01/13/2022,"Menthol, zinc oxide"
+461,484,122,458,556,01/25/2022,Furosemide
+462,421,422,513,334,11/10/2021,Orris Root
+463,110,150,872,488,04/02/2022,tamsulosin hydrochloride
+464,974,331,816,983,05/13/2022,belimumab
+465,943,615,228,834,01/18/2022,Mamma (sinistra) 6
+466,437,748,857,212,12/24/2021,Metoprolol tartrate
+467,459,597,749,500,03/15/2022,Ondansetron
+468,988,626,802,925,07/09/2022,Lisinopril
+469,242,305,972,752,04/26/2022,Triclocarban
+470,603,992,783,918,01/27/2022,meloxicam
+471,558,62,740,794,09/05/2022,
+472,980,829,706,626,02/07/2022,Cefoxitin
+473,228,821,817,488,07/06/2022,CELECOXIB
+474,93,942,1000,552,11/24/2021,OCTINOXATE and TITANIUM DIOXIDE
+475,785,200,231,77,05/31/2022,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE"
+476,23,158,718,915,03/01/2022,Menthol
+477,828,633,313,375,04/01/2022,Nitrofurantoin Macrocrystals
+478,101,961,810,708,03/11/2022,Standardized Mite Dermatophagoides farinae
+479,385,813,520,505,06/09/2022,Verapamil Hydrochloride
+480,663,825,265,628,02/26/2022,"Allium Cepa 30c, Arsenicum 30c, Thuja 30c, Badiaga 30c, Carbo Veg 30c, Dulcamara 30c, Euphrasia 30c, Iodatum 30c, Naja 30c, Nat Sulph 30c, Nux Vomica 30c, Sabadilla 30c, Sinapis Nigra 30c"
+481,677,244,899,564,11/25/2021,Diphenhydramine Hydrochloride
+482,427,451,105,773,11/13/2021,Ethyl Alcohol
+483,38,412,84,50,10/14/2022,clindamycin phosphate
+484,480,216,161,698,10/15/2022,Antiseptic handwash
+485,694,164,10,755,06/29/2022,
+486,869,546,317,776,01/12/2022,"OCTINOXATE, OXYBENZONE, PADIMATE O"
+487,681,356,160,449,04/18/2022,Hydrocortisone
+488,265,860,275,602,12/07/2021,"Acetaminophen, Aspirin and Caffeine"
+489,72,611,166,621,08/20/2022,MAGNESIUM
+490,923,310,84,680,08/10/2022,Morphine Sulfate
+491,928,31,127,979,01/11/2022,
+492,799,432,743,14,11/29/2021,Ramipril
+493,127,857,263,944,08/15/2022,Alcohol
+494,326,621,485,933,12/22/2021,"Vitamin C, Calcium, Iron, Vitamin D3, Vitamin E, Thiamin, Riboflavin, Niacinamide, Vitamin B6, Folic Acid, Iodine, Zinc, Copper, Docusate Sodium"
+495,209,259,103,637,08/04/2022,"OCTINOXATE, OCTOCRYLENE, OCTISALATE, and Avobenzone"
+496,400,165,942,396,03/30/2022,
+497,266,90,428,566,06/24/2022,Triclosan
+498,803,799,582,250,09/07/2022,
+499,879,852,510,869,08/30/2022,"Butalbital, acetaminophen and caffeine"
+500,786,782,774,327,12/09/2021,Aluminum Zirconium Trichlorohydrex Gly
+501,713,776,75,557,12/23/2021,Treatment Set TS343825
+502,245,258,342,382,01/13/2022,Ondansetron
+503,718,122,258,246,01/24/2022,DOCUSATE SODIUM
+504,79,611,415,53,01/04/2022,Clindamycin Hydrochloride
+505,994,65,841,18,06/11/2022,
+506,559,831,208,287,10/06/2022,Hydrocortisone
+507,167,413,523,480,08/14/2022,tretinoin
+508,37,858,6,926,03/10/2022,"AVOBENZONE, OCTINOXATE, OCTISALATE"
+509,514,410,42,304,06/22/2022,Donepezil Hydrochloride
+510,289,895,2,518,05/22/2022,Maple Sugar
+511,270,468,112,215,08/30/2022,Enchanted Forest
+512,29,564,625,746,03/14/2022,Bismuth Subsalycilate
+513,313,925,972,907,02/18/2022,SALICYLIC ACID
+514,553,85,808,905,09/09/2022,"thrombin, topical (bovine)"
+515,790,50,237,550,11/16/2021,"TITANIUM DIOXIDE, ZINC OXIDE"
+516,532,325,594,503,04/02/2022,Oxygen
+517,814,515,685,845,12/23/2021,cyclopentolate hydrochloride
+518,244,562,769,387,08/25/2022,GlyBURIDE
+519,262,232,891,556,12/13/2021,
+520,35,703,709,921,05/23/2022,ponatinib hydrochloride
+521,965,451,100,6,01/22/2022,SALICYLIC ACID
+522,780,674,501,280,05/08/2022,terazosin hydrochloride anhydrous
+523,649,945,856,113,12/25/2021,Cefazolin
+524,374,162,837,670,10/31/2022,Duloxetine hydrochloride
+525,504,932,852,391,03/21/2022,Fluoride
+526,189,463,216,610,07/15/2022,SPIGELIA ANTHELMIA
+527,646,103,268,851,08/01/2022,CHLORPHENIRAMINE MALEATE and PHENYLEPHRINE HYDROCHLORIDE
+528,309,958,597,441,08/08/2022,Tretinoin
+529,605,425,851,31,04/23/2022,Benazepril Hydrochloride
+530,40,460,830,884,09/12/2022,Doxycycline Hyclate
+531,822,815,929,829,09/18/2022,Morphine Sulfate
+532,538,586,952,535,04/07/2022,abacavir sulfate and lamivudine
+533,242,262,223,171,05/22/2022,Risperidone
+534,661,234,318,775,04/12/2022,"Octinoxate, TITANIUM DIOXIDE, and ZINC OXIDE"
+535,235,949,688,940,04/23/2022,BENZALKONIUM CHLORIDE
+536,312,183,70,424,04/17/2022,ALCOHOL
+537,448,583,520,128,11/08/2022,Oxygen
+538,740,929,939,978,08/02/2022,Metformin Hydrochloride
+539,24,414,458,989,01/25/2022,
+540,384,357,388,587,07/21/2022,Oxygen
+541,949,64,748,510,04/01/2022,Captopril
+542,524,719,65,178,04/05/2022,
+543,647,738,880,694,11/18/2021,
+544,702,323,351,818,09/29/2022,LACTUCA VIROSA LEAF
+545,988,562,313,820,11/30/2021,TAMSULOSIN HYDROCHLORIDE
+546,936,249,439,741,04/26/2022,Loratadine
+547,444,586,715,502,03/08/2022,Fentanyl Citrate
+548,897,9,116,496,12/01/2021,penicillin G benzathine
+549,964,164,716,746,02/28/2022,"Octinoxate, Octisalate and Octocrylene"
+550,33,593,146,613,06/09/2022,Fentanyl
+551,765,478,657,418,10/28/2022,OCTINOXATE AND AVOBENZONE
+552,347,506,197,681,07/24/2022,Cetirizine Hydrochloride
+553,32,650,92,489,02/19/2022,Watermelon
+554,196,587,561,322,01/24/2022,phentermine hydrochloride
+555,507,939,730,399,09/10/2022,Zinc Oxide
+556,46,556,290,552,01/01/2022,"Lanolin, Petrolatum"
+557,446,848,901,196,10/18/2022,valsartan
+558,625,882,778,115,10/24/2022,Naproxen
+559,612,917,533,401,08/04/2022,
+560,349,788,766,34,01/12/2022,CETYLPYRIDINIUM CHLORIDE
+561,876,494,748,651,10/21/2022,Risperidone
+562,474,754,538,622,01/23/2022,PROGESTERONE
+563,999,6,819,855,06/19/2022,ENALAPRIL MALEATE
+564,181,102,187,374,12/25/2021,Dexamethasone sodium phosphate
+565,625,871,614,330,05/21/2022,LOPERAMIDE HYDROCHLORIDE
+566,553,400,463,802,09/26/2022,"Loratadine, Pseudoephedrine"
+567,785,482,249,326,11/19/2021,Furosemide
+568,80,247,241,470,01/30/2022,Venlafaxine
+569,54,487,673,215,05/13/2022,ALCOHOL
+570,513,170,676,272,02/25/2022,Desonide
+571,384,51,13,683,06/29/2022,Gabapentin
+572,444,378,339,714,12/22/2021,TRICLOSAN
+573,436,228,261,503,02/04/2022,Amoxicillin
+574,221,996,747,646,04/06/2022,Phoma betae
+575,630,249,184,951,08/28/2022,Valsartan and Hydrochlorothiazide
+576,662,336,560,446,09/14/2022,TRICLOSAN
+577,411,440,580,105,02/10/2022,"Octinoxate, Octisalate, Oxybenzone"
+578,690,308,799,991,06/26/2022,Esmolol Hydrochloride
+579,599,8,292,398,08/01/2022,Alcohol
+580,772,194,613,420,06/02/2022,Clemastine fumarate
+581,759,710,667,456,06/01/2022,"Coccus Cacti, Drosera, Scilla Maritima, Arsenicum Iodatum, Causticum, Cuprum Aceticum, Carbo Vegetabilis"
+582,729,897,97,659,02/14/2022,Sodium Fluoride
+583,746,39,49,12,06/04/2022,Lovastatin
+584,875,815,478,745,12/31/2021,"Octinoxate, Octisalate, Oxybenzone, and Titanium Dioxide"
+585,519,576,681,879,10/16/2022,"Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl"
+586,61,627,836,333,10/10/2022,Arnica Apis Nervus trigeminus Special Order
+587,855,932,222,570,11/29/2021,Oxycodone Hydrochloride
+588,657,35,78,180,01/14/2022,
+589,823,169,51,304,07/22/2022,MAGNESIUM HYDROXIDE
+590,59,112,554,203,10/19/2022,"CAPSAICIN, CAMPHOR, MENTHOL, METHYL SALICYLATE, PEPPERMINT OIL, ZINC OXIDE"
+591,539,391,339,925,03/22/2022,Rhodotorula mucilaginosa
+592,829,40,811,726,09/20/2022,Rhizopus oryzae
+593,900,823,421,740,04/29/2022,LUGOLS
+594,855,914,1,879,02/18/2022,Haloperidol lactate
+595,576,729,795,322,05/22/2022,"BENZALKONIUM CHLORIDE, WATER"
+596,297,566,624,84,12/14/2021,Losartan Potassium and Hydrochlorothiazide
+597,211,205,791,390,06/23/2022,Diltiazem Hydrochloride
+598,737,505,770,314,07/20/2022,Divalproex Sodium
+599,487,401,599,254,11/28/2021,zaleplon
+600,92,541,872,480,06/29/2022,Oxygen
+601,968,149,856,836,07/31/2022,"CADMIUM SULFATE,GRAPHITE,PHOSPHORIC ACID,SILICON DIOXIDE,SELENIUM,THALLIUM,USTILAGO MAYDIS."
+602,354,269,243,907,11/28/2021,
+603,917,191,960,711,05/01/2022,atorvastatin calcium
+604,362,82,146,544,04/09/2022,Enchanted Forest
+605,914,82,663,988,08/21/2022,Lovastatin
+606,959,942,233,1,05/07/2022,Acetaminophen
+607,464,55,171,120,10/31/2022,Acetaminophen
+608,961,626,294,917,07/05/2022,
+609,827,392,382,486,02/25/2022,"Bacitracin Zinc, Neomycin Sulfate, and Polymyxin B Sulfate"
+610,150,954,310,785,05/27/2022,Box Elder
+611,251,232,158,575,08/03/2022,Carbamazepine
+612,14,747,902,989,10/19/2022,Chinese Elm
+613,505,39,805,105,01/13/2022,Naproxen sodium
+614,848,865,436,360,01/17/2022,Camphor
+615,702,25,66,570,12/22/2021,Hydrocodone Bitartrate And Acetaminophen
+616,721,335,430,348,07/07/2022,Phenylephrine HCl
+617,254,282,984,548,05/10/2022,Octinoxate
+618,206,341,495,106,12/01/2021,Lamotrigine
+619,876,410,619,884,04/24/2022,Ethyl Alcohol
+620,166,934,83,488,11/06/2022,clonidine hydrochloride
+621,876,543,332,775,10/17/2022,
+622,653,582,382,936,06/22/2022,"Methyl Salicylate, Capsaicin, and Menthol"
+623,764,680,853,676,10/14/2022,
+624,968,529,937,628,01/09/2022,BENZALKONIUM CHLORIDE
+625,784,52,342,544,12/28/2021,Triclosan
+626,164,147,912,318,08/06/2022,ZINC OXIDE
+627,726,84,712,764,04/07/2022,NATRUM PHOSPHORICUM
+628,823,849,625,9,04/21/2022,acetaminophen
+629,945,177,452,407,04/04/2022,"Antihemophilic Factor (Recombinant), Fc Fusion Protein"
+630,404,871,768,903,11/10/2021,Sodium Sulfacetamide and Sulfur
+631,194,391,306,353,02/19/2022,Potassium Nitrate and Sodium Fluoride
+632,242,449,688,295,06/26/2022,Sulfacetamide Sodium
+633,588,789,401,969,10/09/2022,Benzocaine
+634,244,106,452,816,08/03/2022,Mucor mucedo
+635,385,556,914,440,07/27/2022,ALPHA-TOCOPHEROL ACETATE
+636,927,669,682,67,04/02/2022,PICEA MARIANA RESIN
+637,344,611,657,290,04/15/2022,Isopropyl alcohol
+638,503,915,642,280,01/05/2022,zinc acetate and zinc gluconate
+639,6,991,626,34,03/14/2022,Red Maple
+640,347,555,873,414,03/17/2022,Chlorpromazine Hydrochloride
+641,297,955,673,962,09/27/2022,Dimethicone
+642,250,214,139,946,03/15/2022,tapentadol hydrochloride
+643,840,893,233,387,11/02/2022,
+644,639,428,303,302,09/23/2022,HEPARIN SODIUM
+645,987,504,265,656,09/18/2022,"ASCORBIC ACID, CHOLECALCIFEROL, DL-.ALPHA.-TOCOPHEROL ACETATE, THIAMINE HYDROCHLORIDE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, CYANOCOBALAMIN, CALCIUM CARBONATE, FERROUS FUMARAT"
+646,2,550,799,690,01/07/2022,"Dextromethorphan Hydrobromide, Doxylamine Succinate"
+647,751,631,813,990,02/01/2022,morphine sulfate
+648,781,463,30,267,06/09/2022,"Loratadine, Pseudoephedrine"
+649,87,292,929,14,01/24/2022,Hydrocortisone
+650,855,83,528,305,05/01/2022,oxycodone hydrochloride
+651,647,258,142,338,10/30/2022,
+652,714,483,197,254,02/15/2022,Lisinopril
+653,135,982,533,703,10/17/2022,Warfarin Sodium
+654,939,429,455,729,11/29/2021,Meclizine Hydrochloride
+655,390,159,309,342,10/30/2022,propranolol hydrochloride
+656,314,315,789,340,02/17/2022,ARIPIPRAZOLE
+657,499,740,822,249,05/05/2022,Atropine Sulfate
+658,96,125,232,48,07/24/2022,verapamil hydrochloride
+659,472,439,429,908,11/21/2021,losartan potassium
+660,741,12,320,911,06/13/2022,
+661,238,250,966,182,01/06/2022,Morphine Sulfate Oral Solution
+662,653,248,595,518,10/02/2022,RISPERIDONE
+663,211,283,11,696,04/13/2022,Salicylic Acid
+664,780,913,953,6,05/07/2022,ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE PHENYLEPHRINE HYDROCHLORIDE
+665,253,264,979,825,08/27/2022,TITANIUM DIOXIDE
+666,931,472,317,145,02/03/2022,Bromocriptine Mesylate
+667,594,52,355,786,07/06/2022,FLUOXETINE
+668,108,921,935,41,11/30/2021,"PIPERACILLIN SODIUM,TAZOBACTAM SODIUM"
+669,737,85,989,455,03/09/2022,Oxymetazoline hydrochloride
+670,436,819,990,157,06/11/2022,BENZALKONIUM CHLORIDE
+671,725,58,664,841,12/28/2021,"Elaps corallinus, Aconitum nap.,Aur. met., Baryta carb., Belladonna, Crotalus horridus, Gelsemium, Hamamelis, Lachesis, Merc. viv.,Phosphorus, Picricum ac., Plumbum met., Pulsatilla,Rhus toxicodendron, Stramonium, Theridion, Euphrasia"
+672,683,997,227,952,03/10/2022,"Octinoxate, Octisalate, Oxybenzone"
+673,909,967,712,458,02/02/2022,Hydromorphone Hydrochloride
+674,724,822,399,987,05/14/2022,Triclosan
+675,393,741,303,297,06/23/2022,"Collinsonia Canadensis, Hamamelis Virginiana, Aesculus Hippocastanum, Belladonna, Calcarea Fluorica, Carduus Marianus, Pulsatilla"
+676,574,620,938,373,04/10/2022,Octinoxate and Oxybenzone
+677,263,305,694,326,10/12/2022,estradiol
+678,997,656,29,228,07/25/2022,Vasopressin
+679,785,308,220,705,06/09/2022,Polyethylene Glycol 3350
+680,724,432,940,216,08/30/2022,carboxymethylcellulose sodium
+681,122,156,682,180,11/01/2022,verapamil hydrochloride
+682,858,720,705,690,04/14/2022,Famotidine
+683,937,547,606,579,01/17/2022,elymus repens pollen
+684,359,836,536,238,07/08/2022,
+685,676,751,684,906,05/04/2022,Wheat Smut
+686,26,811,735,301,04/10/2022,"Star of Bethlehem, Rock rose, Impatiens, Cherry plum, Clematis,"
+687,659,149,551,663,01/26/2022,
+688,560,652,53,347,08/13/2022,ARNICA MONTANA
+689,237,70,883,397,01/07/2022,Calcium carbonate
+690,15,536,704,663,06/17/2022,SULFACETAMIDE SODIUM
+691,185,179,618,463,04/02/2022,cefixime
+692,647,859,111,903,06/16/2022,Amlodipine Besylate
+693,299,165,923,945,08/10/2022,Water Hemp
+694,113,790,557,303,12/19/2021,Fluconazole
+695,185,763,711,965,08/12/2022,"THYROID, PORCINE"
+696,137,775,569,98,01/23/2022,Acyclovir
+697,20,95,718,840,07/03/2022,Chlordiazepoxide Hydrochloride and Clidinium Bromide
+698,429,116,36,425,08/31/2022,Treatment Set TS345381
+699,731,569,743,92,08/14/2022,latanoprost
+700,624,193,896,14,07/14/2022,Alcohol
+701,773,154,475,737,01/25/2022,Oxymorphone hydrochloride
+702,866,658,787,83,12/13/2021,doxepin hydrochloride
+703,279,356,867,526,05/19/2022,Ibuprofen
+704,939,456,793,42,08/11/2022,Lubricant eye drops
+705,196,518,767,790,11/17/2021,Naproxen
+706,682,968,24,712,08/06/2022,Mineral Oil
+707,177,612,180,335,07/09/2022,"Arnica, Bellis, Chamomilla, Mag phos, Symphytum, Acacia gum, lactose, magnesium stearate, corn starch, sucrose"
+708,496,602,595,927,01/14/2022,risperidone
+709,447,166,458,709,09/13/2022,Hydromorphone Hydrochloride
+710,393,699,481,142,08/30/2022,Lisinopril
+711,908,410,263,964,06/29/2022,Aluminum Zirconium Trichlorohydrex Gly
+712,396,3,893,667,11/23/2021,olanzapine
+713,254,599,70,620,09/16/2022,Oxybutynin
+714,594,55,338,166,09/08/2022,Dimenhydrinate
+715,824,274,923,247,05/24/2022,
+716,113,689,141,238,09/10/2022,Silver Maple
+717,50,563,264,962,05/14/2022,ibuprofen
+718,291,607,750,971,10/22/2022,
+719,471,365,222,445,04/24/2022,OCTINOXATE and TITANIUM DIOXIDE
+720,139,752,159,356,12/31/2021,Sodium Fluoride
+721,362,494,202,318,08/26/2022,Esomeprazole magnesium
+722,586,899,123,10,09/20/2022,buspirone hydrochloride
+723,475,345,626,665,08/05/2022,Sunscreen Towel
+724,592,367,903,930,07/25/2022,LIDOCAINE HYDROCHLORIDE ANHYDROUS
+725,727,846,492,164,11/05/2022,pyrimethamine
+726,83,357,670,503,01/01/2022,Loperamide Hydrochloride
+727,118,845,479,538,10/11/2022,ETHYL ALCOHOL
+728,230,301,151,871,09/24/2022,Urtica Betula Special Order
+729,136,445,583,249,10/29/2022,Titanium Dioxide
+730,262,61,660,328,02/04/2022,Benzocaine
+731,538,840,472,156,01/16/2022,Morphine Sulfate
+732,66,430,519,367,11/29/2021,Diphenhydramine Hydrochloride and Phenylephrine Hydrochloride
+733,40,463,402,798,05/23/2022,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+734,757,146,456,541,04/23/2022,VANCOMYCIN HYDROCHLORIDE
+735,32,129,569,608,08/04/2022,CALCITRIOL
+736,770,189,611,96,03/02/2022,"Dextrose (glucose), Levulose (fructose), Phosphoric Acid"
+737,97,573,821,739,01/16/2022,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+738,776,562,756,195,02/26/2022,Verapamil Hydrochloride
+739,847,202,702,276,07/25/2022,Careless/Pigweed Mix
+740,485,53,454,219,04/15/2022,Acetaminophen
+741,207,635,413,896,03/28/2022,Tizanidine Hydrochloride
+742,534,304,103,138,09/12/2022,
+743,308,847,931,639,04/22/2022,Carbidopa and Levodopa
+744,442,11,463,264,12/01/2021,Titanium Dioxide and Octinoxate
+745,339,103,495,50,10/20/2022,"Octinoxate, Octisalate, Oxybenzone, and Titanium dioxide"
+746,714,957,150,213,06/19/2022,Cultivated Rye
+747,333,872,593,24,05/22/2022,Docusate sodium
+748,735,596,843,933,07/15/2022,risperidone
+749,82,275,700,923,05/18/2022,Aluminum zirconium tetrachlorohydrex gly
+750,930,827,456,313,10/24/2022,Liothyronine Sodium
+751,319,229,185,468,11/06/2022,Cultivated Wheat
+752,469,563,36,255,08/30/2022,California Mugwort
+753,974,581,221,761,10/23/2022,Cefprozil
+754,808,865,569,962,02/23/2022,Hog Epithelium
+755,769,581,915,225,03/13/2022,DOK Plus
+756,559,813,689,106,08/21/2022,Benzalkonium Chloride
+757,552,857,744,868,12/06/2021,TRICLOSAN
+758,451,310,532,978,09/27/2022,Dextromethorphan HBr
+759,192,550,252,476,03/23/2022,Clonidine Hydrochloride
+760,244,570,348,571,10/11/2022,ALCOHOL
+761,990,130,489,155,12/29/2021,SILICON DIOXIDE
+762,115,712,503,363,07/29/2022,Acetaminophen
+763,170,646,787,925,04/21/2022,Kalium aceticum comp. 6
+764,978,670,415,256,11/03/2022,ketamine hydrochloride
+765,391,696,475,282,11/06/2022,CHASTE TREE
+766,468,266,534,240,08/26/2022,AZTREONAM
+767,930,449,930,950,02/14/2022,clonidine hydrochloride
+768,302,739,182,208,01/30/2022,DIMETHICONE
+769,765,91,761,759,09/03/2022,valacyclovir hydrochloride
+770,767,41,934,346,06/03/2022,Levothyroxine Sodium
+771,79,326,532,939,01/27/2022,
+772,715,783,504,613,01/28/2022,PAIN RELIEVING PATCH
+773,292,953,119,836,09/18/2022,Diphenhydramine Hydrochloride
+774,772,262,571,698,02/19/2022,"sulfur, resorcinol"
+775,685,118,361,39,05/11/2022,Water
+776,472,473,723,289,06/27/2022,articaine hydrochloride and epinephrine bitartrate
+777,421,941,567,240,07/06/2022,Magnesium hydroxide
+778,752,879,655,80,10/31/2022,"TITANIUM DIOXIDE, OCTINOXATE"
+779,14,12,21,143,02/10/2022,"Octinoxate, octisalate, oxybenzone"
+780,203,889,37,946,07/25/2022,
+781,63,586,283,601,07/17/2022,"Octinoxate, Octisalate, and Titanium Dioxide"
+782,909,730,114,778,12/07/2021,Methyl Salicylate and Menthol
+783,569,671,863,450,07/24/2022,quinapril hydrochloride and hydrochlorothiazide
+784,771,604,220,568,11/29/2021,Esomeprazole strontium
+785,697,210,801,11,02/13/2022,
+786,795,724,273,303,11/20/2021,Lansoprazole
+787,813,145,932,32,08/11/2022,Dextromethorphan HBr. and Guaifenesin
+788,509,248,609,808,06/08/2022,menthol
+789,318,205,465,605,08/08/2022,Hydrocodone Bitartrate and Ibuprofen
+790,36,261,801,709,05/30/2022,"OCTINOXATE, ZINC OXIDE"
+791,456,891,363,303,11/28/2021,
+792,27,356,709,911,07/26/2022,
+793,109,988,989,353,11/10/2021,hydrocortisone sodium succinate
+794,232,862,831,203,03/18/2022,Hydrocortisone Acetate and Pramoxine Hydrochloride
+795,10,216,959,617,01/27/2022,"Avobenzone, Homosalate, Octisalate, octocrylene, and Oxybenzone"
+796,652,761,237,586,05/17/2022,"Homosalate, Octisalate, Oxybenzone, Octocrylene, Avobenzone"
+797,848,570,143,331,03/07/2022,"Zinc Oxide, Titanium Dioxide"
+798,360,946,324,522,09/19/2022,Tranexamic Acid
+799,897,457,12,544,03/16/2022,clomiphene citrate
+800,155,279,188,428,05/09/2022,"Ascorbic Acid, .Alpha.-Tocopherol Acetate, DL-, Folic Acid, Cyanocobalamin, Biotin, Iron, Cupric Sulfate, and Docusate Sodium"
+801,589,914,535,27,04/11/2022,Primidone
+802,333,278,551,768,01/03/2022,stannous fluoride
+803,786,934,929,628,05/28/2022,Lactulose
+804,706,995,620,335,06/18/2022,Triclosan
+805,184,243,436,650,08/26/2022,PENICILLIUM CHRYSOGENUM
+806,12,386,236,655,10/07/2022,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
+807,972,892,757,173,03/10/2022,ketamine hydrochloride
+808,493,592,300,418,11/15/2021,Organoplex
+809,220,868,781,610,04/07/2022,ciclopirox olamine
+810,834,984,722,246,09/29/2022,OCTINOXATE
+811,943,193,38,660,05/29/2022,SALICYLIC ACID
+812,897,723,705,342,07/01/2022,BENZALKONIUM CHLORIDE
+813,427,149,830,141,07/17/2022,Fluorouracil
+814,351,113,175,600,10/16/2022,Hydromorphone Hydrochloride
+815,122,316,662,302,10/18/2022,"LYSINE ACETATE, LEUCINE, PHENYLALANINE, VALINE, ISOLEUCINE, METHIONINE, THREONINE, TRYPTOPHAN, ALANINE, ARGININE, GLYCINE, HISTIDINE, PROLINE, GLUTAMIC ACID, SERINE, ASPARTIC ACID, and TYROSINE"
+816,862,35,641,961,01/17/2022,diazepam
+817,676,795,526,365,10/28/2022,ANTIMONY POTASSIUM TARTRATE
+818,285,680,214,1,08/26/2022,Loratadine
+819,872,583,969,643,08/17/2022,ALCOHOL
+820,611,693,233,790,05/22/2022,"ASPIRIN, CHLORPHENIRAMINE MALEATE, and PHENYLEPHRINE BITARTRATE"
+821,461,40,430,441,12/17/2021,venlafaxine hydrochloride
+822,383,582,642,676,01/26/2022,"Neomycin sulfate, Polymyxin B Sulfate and Dexamethasone"
+823,868,253,10,239,11/07/2022,Petrolatum
+824,740,126,554,821,07/21/2022,"Butalbital, Acetaminophen, and Caffeine"
+825,198,451,548,889,07/14/2022,Acetaminophen
+826,614,170,162,475,12/02/2021,
+827,965,873,765,436,08/24/2022,losartan potassium
+828,251,916,975,844,10/06/2022,amantadine hydrochloride
+829,462,347,541,772,06/25/2022,Terbinafine Hydrochloride
+830,407,933,340,597,10/15/2022,Diphenhydramine HCl
+831,716,219,137,563,01/22/2022,"Dextroamphetamine saccharate, Amphetamine aspartate, Dextroamphetamine sulfate, and Amphetamine sulfate"
+832,741,159,604,130,07/11/2022,"ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE"
+833,623,188,583,283,04/17/2022,ketorolac tromethamine
+834,771,179,373,193,11/08/2022,clindamycin phosphate and benzoyl peroxide
+835,37,861,150,288,04/07/2022,OCTINOXATE and TITANIUM DIOXIDE
+836,146,881,212,320,12/08/2021,Oxygen Helium Mixture 20/80
+837,830,316,898,845,08/19/2022,
+838,402,615,758,95,03/16/2022,
+839,399,49,861,766,02/17/2022,Sulindac
+840,980,130,846,103,06/25/2022,Aspergillus fumigatus
+841,883,550,113,608,10/16/2022,"bacitracin zinc, neomycin sulfate, polymyxin b sulfate"
+842,647,827,385,858,11/28/2021,Meloxicam
+843,962,975,463,84,10/04/2022,Menthol
+844,301,16,852,201,01/07/2022,Hydrocortisone
+845,430,395,524,157,09/13/2022,Meclizine
+846,330,14,598,51,08/08/2022,Lidocaine Hydrochloride
+847,687,290,664,352,08/10/2022,Aspirin
+848,20,122,254,258,12/02/2021,Goats Milk
+849,997,361,983,42,03/29/2022,Mirtazapine
+850,317,776,912,532,06/09/2022,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE HYDROCHLORIDE"
+851,669,929,950,165,01/14/2022,"Alchemilla Vulgaris, Asperula Odorata, Chamomilla, Viola Odorata, Cinchona Officinalis, Mentha Piperita, Rosmarinus Officinalis, Valeriana Officinalis, Helonia Dioica, Agnus Castus, Ambra Grisea, Cimi"
+852,108,933,75,376,04/26/2022,SALICYLIC ACID
+853,896,104,473,812,06/02/2022,LIDOCAINE HYDROCHLORIDE ANHYDROUS and EPINEPHRINE
+854,549,754,261,533,03/28/2022,LISINOPRIL
+855,247,321,78,68,06/19/2022,TRIFLUOPERAZINE
+856,227,105,407,3,08/09/2022,
+857,128,804,235,42,12/16/2021,Ramipril
+858,767,86,907,774,08/09/2022,"Capsicum Annuum, Arnica Montana, Hypericum"
+859,223,870,274,880,07/12/2022,
+860,24,687,704,725,10/20/2022,itraconazole
+861,509,22,657,241,10/24/2022,
+862,444,937,752,638,01/21/2022,zinc oxide
+863,347,505,172,655,03/31/2022,Titanium Dioxide and Zinc Oxide
+864,45,789,688,308,08/21/2022,
+865,183,252,813,279,03/25/2022,Minocycline hydrochloride
+866,196,132,702,813,10/12/2022,Allantoin
+867,338,652,222,233,03/12/2022,meloxicam
+868,343,996,207,203,07/09/2022,Acyclovir
+869,229,862,671,959,03/13/2022,atenolol
+870,789,934,1,558,06/01/2022,Berberis Viscum
+871,506,343,441,935,07/26/2022,fentanyl
+872,297,145,617,884,05/20/2022,carbidopa and levodopa
+873,219,681,997,981,11/28/2021,Diphenhydramine Hydrochloride
+874,497,325,708,815,12/10/2021,Metoclopramide Hydrochloride
+875,118,503,388,855,04/04/2022,midazolam hydrochloride
+876,437,625,398,951,11/06/2022,Sodium Fluoride
+877,688,303,383,301,07/14/2022,"Homosalate, Octinoxate, Octisalate, and Oxybenzone"
+878,826,999,518,574,05/04/2022,Goldenrod
+879,364,210,616,60,05/12/2022,"Chimaphila umb, Clematis virg, Conium, Cubeba, Sabal"
+880,475,263,169,873,03/04/2022,Aluminum Zirconium Trichlorohydrex Gly
+881,564,535,712,106,01/06/2022,clocortolone pivalate
+882,167,725,776,170,10/16/2022,"lansoprazole, amoxicillin and clarithromycin"
+883,241,348,275,946,07/20/2022,"Acetaminophen,Diphenhydramine HCl"
+884,19,698,583,98,02/16/2022,Western Water Hemp
+885,343,176,151,511,04/05/2022,Oxycodone and Acetaminophen
+886,414,797,731,538,05/20/2022,Ibuprofen
+887,805,442,760,346,05/28/2022,mixed vespid hymenoptera venom multidose
+888,314,918,332,38,01/20/2022,ALLANTOIN
+889,127,90,138,205,09/27/2022,Lisinopril
+890,493,544,316,936,10/13/2022,Famciclovir
+891,671,537,493,372,12/12/2021,Phenytoin Sodium
+892,862,400,918,143,11/14/2021,Hand Sanitizer Gel Antiseptic
+893,603,216,826,852,12/15/2021,"sodium phosphate, monobasic, monohydrate and sodium phosphate, dibasic anhydrous"
+894,920,564,327,853,10/13/2022,Pramipexole Dihydrochloride
+895,671,503,268,687,03/05/2022,
+896,810,527,104,438,03/15/2022,"DL-Camphor,L-Menthol,Methyl Salicylate"
+897,389,602,521,954,01/06/2022,"OCTINOXATE, OXYBENZONE"
+898,295,223,997,460,02/17/2022,"Caffeine, magnesium salicylate"
+899,809,913,399,489,04/26/2022,Fentanyl Citrate
+900,454,156,448,540,08/06/2022,West Wheat Grass
+901,50,388,652,775,09/05/2022,dextroamphetamine sulfate
+902,628,41,25,367,06/25/2022,"butalbital, acetaminophen and caffeine"
+903,183,828,360,867,04/27/2022,Naproxen Sodium
+904,277,761,678,38,09/30/2022,Ketoconazole
+905,224,292,438,443,03/18/2022,oxycodone hydrochloride and acetaminophen
+906,776,592,420,378,04/24/2022,PENICILLIUM CHRYSOGENUM
+907,136,323,856,698,07/23/2022,menthol
+908,112,781,955,926,06/30/2022,ETHYL ALCOHOL
+909,312,706,356,745,12/10/2021,Groundsel
+910,778,144,550,644,10/26/2022,AMITRIPTYLINE HYDROCHLORIDE
+911,871,298,449,921,06/17/2022,
+912,586,702,423,756,04/29/2022,
+913,180,288,228,185,01/26/2022,"Acetaminophen, Dextromethorphan HBr, Doxylamine Succinate, Phenylephrine HCl"
+914,395,410,944,708,02/10/2022,Tetracycline HCl
+915,780,292,83,654,01/03/2022,nitisinone
+916,515,763,910,670,05/11/2022,Pravastatin Sodium
+917,192,457,521,523,07/17/2022,Midazolam hydrochloride
+918,770,535,769,767,10/11/2022,"Sodium Chloride, Sodium Lactate, Potassium Chloride, Calcium Chloride"
+919,96,527,906,199,12/13/2021,Octinoxate and Titanium dioxide
+920,105,69,400,864,07/15/2022,Dexamethasone
+921,520,170,746,987,07/21/2022,PERPHENAZINE
+922,21,876,187,5,11/12/2021,
+923,760,334,228,483,03/24/2022,Potassium Bicarbonate
+924,342,608,782,577,11/15/2021,Tamsulosin Hydrochloride
+925,285,857,820,317,09/27/2022,"Aspirin, Citric Acid Monohydrate, and Sodium Bicarbonate"
+926,34,539,736,20,07/26/2022,MINOCYCLINE HYDROCHLORIDE
+927,324,556,605,236,12/16/2021,Calcium carbonate and Magnesium hydroxide
+928,493,761,403,181,08/23/2022,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate"
+929,610,717,324,258,05/08/2022,tizanidine
+930,83,621,299,617,10/24/2022,GRANISETRON HYDROCHLORIDE
+931,721,15,81,707,06/19/2022,valsartan and hydrochlorothiazide
+932,973,721,677,92,08/24/2022,NATRUM MURIATICUM
+933,743,414,205,874,10/26/2022,Naproxen Sodium
+934,288,970,11,610,10/25/2022,Corn Smut
+935,532,808,498,781,01/24/2022,clonidine
+936,669,462,678,595,05/11/2022,Nicotine Polacrilex
+937,6,734,940,212,12/16/2021,
+938,690,222,921,688,06/19/2022,oxymorphone hydrochloride
+939,561,80,681,855,01/01/2022,Aluminum Zirconium Tetrachlorohydrex Gly
+940,169,806,513,223,09/26/2022,Cetirizine Hydrochloride
+941,780,779,118,746,04/11/2022,benzonatate
+942,518,137,179,518,12/13/2021,sesame seed
+943,762,684,966,287,07/08/2022,Tea Tree Hand and Body Wash
+944,387,126,433,157,02/25/2022,bismuth subsalicylate
+945,505,471,652,430,10/29/2022,paroxetine hydrochloride
+946,325,192,119,702,10/16/2022,"OCTINOXATE, OCTISALATE, AVOBENZONE, OCTOCRYLENE"
+947,81,684,784,229,05/15/2022,diltiazem hydrochloride
+948,783,867,571,47,08/10/2022,"Anacardium orientale, Argentum nitricum, Arsenicum album, Bismuthum metallicum, Condurango, Geranium maculatum, Nux vomica, Pyrogenium, Robinia pseudoacacia, Sulphuricum acidum,"
+949,670,670,4,345,08/17/2022,Menthol
+950,65,574,946,120,07/10/2022,ezetimibe and simvastatin
+951,574,121,136,308,12/15/2021,"Aurum metallicum, Belladonna, Cactus grandiflorus, China officinalis, Conium maculatum, Curare, Gelsemium sempervirens, Phosphorus, Ruta graveolens, Veratrum album"
+952,377,616,743,972,12/02/2021,Aspirin
+953,379,239,153,460,05/20/2022,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE"
+954,488,418,175,153,06/26/2022,Galantamine
+955,599,628,256,833,04/15/2022,Horse Epithelium
+956,538,389,987,997,07/23/2022,"Chlorpheniramine maleate, Phenylephrine HCl"
+957,698,826,125,949,12/25/2021,amlodipine besylate and atorvastatin calcium
+958,569,636,661,939,07/17/2022,Titanium Dioxide and Zinc Oxide
+959,397,619,648,181,05/09/2022,
+960,648,235,16,451,04/02/2022,MORELLA CERIFERA ROOT BARK
+961,659,68,984,233,09/08/2022,GABAPENTIN
+962,270,192,497,8,01/02/2022,Levetiracetam
+963,662,836,324,428,11/14/2021,pioglitazone
+964,549,222,356,675,03/07/2022,Benzalkonium chloride
+965,313,564,670,5,11/02/2022,gadoteridol
+966,296,152,187,209,01/26/2022,"rSomatotropin, rIGF-I, rIGF-II, RNA, DNA,Glandula Suprarenalis Suis, Hepar Suis, Pituitarium Posterium, Thymus, Thyroidinum, Placenta Totalis Suis, Oophorinum, Abrotanum, Anacard Or, Arsenicum Alb, Baryta Carb, Baryta Mur, Calc Carb, Calc Phos, Ferrum Met, Fucus, Hekla, Hellebor Nig, Ignatia, Lycopodium, Nicotinamidium, Secale, Silicea, Cobaltum Met, Lithium Carb, Mag Phos, Mang Acet, Kali Phos, Selenium Met, Zinc Met."
+967,142,267,104,152,03/09/2022,WITCH HAZEL
+968,522,501,204,753,04/27/2022,"Melatonin,"
+969,72,151,889,857,10/10/2022,Losartan Potassium and Hydrochlorothiazide
+970,856,16,730,633,05/18/2022,diphenhydramine HCl
+971,659,836,365,670,08/02/2022,"Eucalyptol, Menthol, Methyl Salicylate, Thymol"
+972,550,512,665,880,05/21/2022,Chlordiazepoxide Hydrochloride
+973,477,270,420,505,10/28/2022,Carvedilol
+974,169,650,526,344,09/17/2022,SODIUM CHLORIDE
+975,217,825,6,815,10/06/2022,Ibuprofen
+976,991,686,31,982,05/08/2022,ALCOHOL
+977,671,337,841,630,08/17/2022,Losartan Potassium
+978,756,432,561,606,07/06/2022,Fexofenadine HCl
+979,369,378,22,669,12/31/2021,BENZALKONIUM CHLORIDE
+980,899,70,214,374,06/30/2022,
+981,120,358,187,216,08/27/2022,
+982,223,487,190,240,12/16/2021,Nadolol
+983,307,517,604,832,12/17/2021,Brome Grass
+984,801,363,426,190,02/14/2022,"Titanium Dioxide, Octinoxate, Octisalate, Octocrylene, Zinc Oxide"
+985,219,700,91,993,07/10/2022,Metoprolol tartrate
+986,108,303,844,616,07/27/2022,"TITANIUM DIOXIDE, ZINC OXIDE"
+987,4,571,308,216,05/29/2022,"Plantain, English Plantago lanceolata"
+988,547,911,21,361,11/20/2021,"OCTINOXATE, OCTISALATE, OCTOCRYLENE, AVOBENZONE"
+989,597,321,53,383,04/25/2022,DIPYRIDAMOLE
+990,478,487,502,486,03/30/2022,imipramine pamoate
+991,722,817,597,789,05/17/2022,somatropin (rDNA origin)
+992,554,932,885,536,02/04/2022,ISOSORBIDE DINITRATE
+993,236,753,173,662,03/18/2022,ETHYL ALCOHOL
+994,965,325,276,136,07/26/2022,VERATRUM ALBUM ROOT
+995,491,408,603,666,01/14/2022,Shrimp Crago sp.
+996,826,593,18,732,09/25/2022,Lidocaine Hydrochloride
+997,800,649,14,457,01/16/2022,doxycycline
+998,314,934,519,547,07/16/2022,Octinoxate and Oxybenzone
+999,359,413,377,346,01/12/2022,Ropinirole Hydrochloride
+1000,943,229,936,57,01/21/2022,Red Mulberry
