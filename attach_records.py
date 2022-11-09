@@ -17,8 +17,6 @@ if __name__ == "__main__":
         cluster = MongoClient("mongodb+srv://mongo:mongo@csci112-cluster.zbudtoj.mongodb.net/HospitalAdministration?retryWrites=true&w=majority")
         db = cluster["HospitalAdministration"]
         print("Connected to MongoDB")
-        patients = db["patients"]
-        medical_records = db["medicalRecords"]
     except Exception as e:
         print("An error occurred...")
         print(e)
