@@ -7,6 +7,8 @@
 # ssh
 git clone git@github.com:jamesesguerra/csci112-finalproj.git
 
+# or
+
 # https
 git clone https://github.com/jamesesguerra/csci112-finalproj.git
 ```
@@ -14,6 +16,20 @@ git clone https://github.com/jamesesguerra/csci112-finalproj.git
 ### cd into folder
 ```sh
 cd csci112-finalproj
+```
+
+### make a virtual env
+```sh
+python -m venv venv
+```
+
+### activate virtual env
+```sh
+# windows
+\venv\Scripts\activate
+
+# unix
+source venv/bin/activate
 ```
 
 ### install dependencies
