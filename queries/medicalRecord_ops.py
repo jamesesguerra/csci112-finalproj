@@ -51,7 +51,5 @@ if __name__ == "__main__":
     bills = db["bills"]
     patients = db["patients"]
 
-    add_record(1, 1, 1, ["Ibuprofen"], 5000)
-
 
     
