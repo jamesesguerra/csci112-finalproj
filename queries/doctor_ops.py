@@ -7,5 +7,4 @@ from utils import get_max_id
 if __name__ == "__main__":
     db = get_connection()
     doctors = db["doctors"]
-
     
