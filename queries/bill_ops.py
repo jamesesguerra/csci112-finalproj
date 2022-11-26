@@ -27,6 +27,19 @@ def get_bill_info(id):
     bill = bills.find_one({ "bill_id": id })
     return bill
 
+
+def get_total_amount(date):
+    total = bills.aggregate([
+        {
+            "$match": { "date": date }
+        },
+        {
+            "$group": { "_id": 1, "total_amount": { "$sum": "$amount" } }
+        }
+    ])
+    return list(total)[0]["total_amount"]
+
+
 # update
 def update_bill_info(id, attribute, value):
     bills.update_one({ "bill_id": id }, { "$set": { attribute: value } })
@@ -40,3 +53,5 @@ def remove_bill(id):
 if __name__ == "__main__":
     db = get_connection()
     bills = db["bills"]
+
+    pprint(get_total_amount("01/03/2022"))
