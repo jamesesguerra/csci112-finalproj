@@ -1,8 +1,8 @@
-# csci 112 final proj
+# CSCI 112 Final Project
 
-## setup
+## Development Environment Setup
 
-### clone the repo
+### Clone the repository
 ```sh
 # ssh
 git clone git@github.com:jamesesguerra/csci112-finalproj.git
@@ -13,17 +13,17 @@ git clone git@github.com:jamesesguerra/csci112-finalproj.git
 git clone https://github.com/jamesesguerra/csci112-finalproj.git
 ```
 
-### cd into folder
+### Change directory into folder
 ```sh
 cd csci112-finalproj
 ```
 
-### make a virtual env
+### Make a virtual environment
 ```sh
 python -m venv venv
 ```
 
-### activate virtual env
+### Activate the environment
 ```sh
 # windows
 \venv\Scripts\activate
@@ -32,7 +32,26 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-### install dependencies
+### Install project dependencies
 ```sh
 pip install -r requirements.txt
+```
+
+## Database Usage
+
+1. To use the database associated with the project, add "HospitalAdministration" as a path parameter in the MongoDB URI used to connect to the MongoDB Atlas cluster:
+```sh
+mongodb+srv://mongo:mongo@csci112-cluster.zbudtoj.mongodb.net/HospitalAdministration?retryWrites=true&w=majority
+```
+
+2. Import the `MongoClient` class from the pymongo package. The MongoDB URI must then be passed to it when creating an instance of the client:
+```py
+from pymongo import MongoClient
+
+client = MongoClient("mongodb+srv://mongo:mongo@csci112-cluster.zbudtoj.mongodb.net/HospitalAdministration?retryWrites=true&w=majority")
+```
+
+3. Access the `HospitalAdministration` database from the client object:
+```py
+db = client["HospitalAdministration"]
 ```
