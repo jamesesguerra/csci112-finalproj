@@ -28,7 +28,6 @@ def get_bill_info(id):
     bill = bills.find_one({ "bill_id": id })
     return bill
 
-
 # update
 def update_bill_info(id, attribute, value):
     bills.update_one({ "bill_id": id }, { "$set": { attribute: value } })
@@ -46,7 +45,3 @@ def remove_bill(id):
 if __name__ == "__main__":
     db = get_connection()
     bills = db["bills"]
-
-    remove_bill(1001)
-    # print(create_bill(55555))
-    # print(get_bill_info(1001))
