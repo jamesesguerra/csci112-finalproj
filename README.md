@@ -57,4 +57,5 @@ db = client["HospitalAdministration"]
 ```
 
 ## Data Model of the Database
-![image](https://user-images.githubusercontent.com/68677613/204084330-4a417985-3a6d-4538-9865-66d28b2362b7.png)
+![image](https://user-images.githubusercontent.com/68677613/204084506-c5c0c3d0-88ed-41bf-bbe2-eb38c9886eeb.png)
+
