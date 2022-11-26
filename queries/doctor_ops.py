@@ -16,7 +16,6 @@ def add_doctor(name, gender, age, contact_number, specialization):
     }
 
     doctors.insert_one(new_doctor)
-    print(f"Doctor {name} was successfully added to the database.")
 
 
 # read
@@ -35,8 +34,6 @@ def update_doctor_info(attribute, value, id=None, name=None):
         doctors.update_one({ "doctor_id": id }, { "$set": { attribute: value } })
     else:
         doctors.update_one({ "name": name }, { "$set": { attribute: value } })
-    
-    print("Doctor info successfully updated.")
 
 
 # delete
@@ -45,8 +42,6 @@ def remove_doctor(id=None, name=None):
         doctors.delete_one({ "doctor_id": id })
     else:
         doctors.delete_one({ "name": name })
-    
-    print("Doctor successfully deleted.")
         
     
 if __name__ == "__main__":

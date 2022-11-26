@@ -12,7 +12,6 @@ def add_room(room_type):
     }
 
     rooms.insert_one(new_room)
-    print(f"Room was successfully added to the database.")
 
     
 # read
@@ -25,14 +24,10 @@ def get_room_info(id):
 def update_room_info(id, attribute, value):
     rooms.update_one({ "room_id": id }, { "$set": { attribute: value } })
 
-    print("Room successfully updated.")
-
 
 # delete
 def remove_room(id):
     rooms.delete_one({ "room_id": id })
-
-    print("Room successfully deleted.")
 
 
 if __name__ == "__main__":

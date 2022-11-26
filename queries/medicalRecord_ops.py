@@ -22,7 +22,6 @@ def add_record(patient_id, doctor_id, room_id, prescribed_drugs, bill_amount):
 
     medical_records.insert_one(new_record)
     patients.update_one({ "patient_id": patient_id }, { "$push": { "medical_records": new_record } })
-    print(f"Medical record for patient #{patient_id} successfully added.")
 
 
 # read
@@ -35,14 +34,10 @@ def get_record_info(id):
 def update_record_info(id, attribute, value):
     medical_records.update_one({ "record_id": id }, { "$set": { attribute: value } })
 
-    print("Medical record successfully updated.")
-
 
 # delete
 def remove_record(id):
     medical_records.delete_one({ "record_id": id })
-
-    print("Medical record successfully deleted.")
 
 
 if __name__ == "__main__":

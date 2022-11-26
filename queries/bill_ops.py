@@ -19,7 +19,6 @@ def create_bill(amount):
     }
 
     bills.insert_one(new_bill)
-    print(f"Bill was successfully created.")
     return bill_id
 
 
@@ -32,14 +31,10 @@ def get_bill_info(id):
 def update_bill_info(id, attribute, value):
     bills.update_one({ "bill_id": id }, { "$set": { attribute: value } })
 
-    print("Bill successfully updated.")
-
 
 # delete
 def remove_bill(id):
     bills.delete_one({ "bill_id": id })
-
-    print("Bill successfully deleted.")
 
     
 if __name__ == "__main__":
