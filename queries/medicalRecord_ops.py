@@ -1,5 +1,6 @@
 from pprint import pprint
 from datetime import datetime
+from typing import List
 
 from database import get_connection
 from utils import get_max_id
@@ -7,7 +8,7 @@ from bill_ops import create_bill
 
 
 # create
-def add_record(patient_id, doctor_id, room_id, prescribed_drugs, bill_amount):
+def add_record(patient_id, doctor_id, room_id, prescribed_drugs: List[str], bill_amount):
     bill_id = create_bill(bill_amount)
 
     new_record = {
