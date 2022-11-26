@@ -2,7 +2,7 @@
 
 ## Development Environment Setup
 
-### Clone the repository
+Clone the repository
 ```sh
 # ssh
 git clone git@github.com:jamesesguerra/csci112-finalproj.git
@@ -13,17 +13,17 @@ git clone git@github.com:jamesesguerra/csci112-finalproj.git
 git clone https://github.com/jamesesguerra/csci112-finalproj.git
 ```
 
-### Change directory into folder
+Change directory into folder
 ```sh
 cd csci112-finalproj
 ```
 
-### Make a virtual environment
+Make a virtual environment
 ```sh
 python -m venv venv
 ```
 
-### Activate the environment
+Activate the environment
 ```sh
 # windows
 \venv\Scripts\activate
@@ -32,7 +32,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-### Install project dependencies
+Install project dependencies
 ```sh
 pip install -r requirements.txt
 ```
@@ -55,3 +55,5 @@ client = MongoClient("mongodb+srv://mongo:mongo@csci112-cluster.zbudtoj.mongodb.
 ```py
 db = client["HospitalAdministration"]
 ```
+
+## Data Model of the Database
