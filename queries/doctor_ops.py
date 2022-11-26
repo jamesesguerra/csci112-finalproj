@@ -29,6 +29,12 @@ def get_doctor_info(id=None, name=None):
     return doctor
 
 
+def get_specialty_doctors(specialization, limit=0):
+    specialty_doctors = doctors.find({ "specialization": specialization }).limit(limit)
+
+    return list(specialty_doctors)
+
+
 # update
 def update_doctor_info(attribute, value, id=None, name=None):
     if id:
@@ -49,3 +55,4 @@ if __name__ == "__main__":
     db = get_connection()
     doctors = db["doctors"]
     
+    pprint(get_specialty_doctors("Pulmonology"))

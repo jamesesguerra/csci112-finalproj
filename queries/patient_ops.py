@@ -39,6 +39,40 @@ def get_patients_records(id=None, name=None):
     return medical_records
 
 
+def get_assigned_doctors(id=None, name=None):
+    key = "patient_id" if id else "name"
+    doctors = patients.aggregate([
+        {
+            "$match": { key: id if id else name }
+        },
+        {
+            "$unwind": "$medical_records"
+        },
+        {
+            "$group": {
+                "_id": "$medical_records.doctor_id",
+                "times_assigned": { "$sum": 1 }
+            }
+        },
+        {
+            "$sort": { "times_assigned": -1 }
+        },
+        {
+            "$project": { "_id": 0, "doctor_id": "$_id", "times_assigned": 1 }
+        }
+    ])
+    return list(doctors)
+
+
+def get_avg_patient_age():
+    avg_age = patients.aggregate([
+        {
+            "$group": { "_id": 1, "avg_age": { "$avg": "$age" } }
+        }
+    ])
+    return list(avg_age)[0]["avg_age"]
+
+
 # update
 def update_patient_info(attribute, value, id=None, name=None):
     if id:
@@ -58,3 +92,6 @@ def remove_patient(id=None, name=None):
 if __name__ == "__main__":
     db = get_connection()
     patients = db["patients"]
+
+
+    pprint(get_avg_patient_age())
