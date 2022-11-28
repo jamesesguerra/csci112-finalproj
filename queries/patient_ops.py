@@ -92,6 +92,4 @@ def remove_patient(id=None, name=None):
 if __name__ == "__main__":
     db = get_connection()
     patients = db["patients"]
-
-
-    pprint(get_avg_patient_age())
+    

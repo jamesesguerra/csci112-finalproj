@@ -35,9 +35,25 @@ def get_record_info(id):
 def update_record_info(id, attribute, value):
     medical_records.update_one({ "record_id": id }, { "$set": { attribute: value } })
 
+    record = medical_records.find_one({ "record_id": id })
+    patient_id = record["patient_id"]
+
+    patients.update_one(
+        { "patient_id": patient_id, "medical_records.record_id": id },
+        { "$set": { f"medical_records.$.{attribute}": value } }
+    )
+
 
 # delete
 def remove_record(id):
+    record = medical_records.find_one({ "record_id": id })
+    patient_id = record["patient_id"]
+    
+    patients.update_one(
+        { "patient_id": patient_id },
+        { "$pull": { "medical_records": { "record_id": id } } }
+    )
+
     medical_records.delete_one({ "record_id": id })
 
 
@@ -46,6 +62,9 @@ if __name__ == "__main__":
     medical_records = db["medicalRecords"]
     bills = db["bills"]
     patients = db["patients"]
+
+    # add_record(2, 84, 23, ["Ibuprofen"], 5000)
+    remove_record(1003)
 
 
     
