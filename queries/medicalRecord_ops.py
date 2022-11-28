@@ -31,6 +31,27 @@ def get_record_info(id):
     return record
 
 
+def get_most_prescribed_drugs(limit=0):
+    result = medical_records.aggregate([
+        {
+            "$unwind": "$prescribed_drugs"
+        },
+        {
+            "$group": {
+                "_id": "$prescribed_drugs",
+                "count": { "$sum": 1 }
+            }
+        },
+        {
+            "$sort": { "count": -1 }
+        },
+        {
+            "$limit": limit
+        }
+    ])
+    return list(result)
+
+
 # update
 def update_record_info(id, attribute, value):
     medical_records.update_one({ "record_id": id }, { "$set": { attribute: value } })
@@ -62,9 +83,4 @@ if __name__ == "__main__":
     medical_records = db["medicalRecords"]
     bills = db["bills"]
     patients = db["patients"]
-
-    # add_record(2, 84, 23, ["Ibuprofen"], 5000)
-    remove_record(1003)
-
-
     
